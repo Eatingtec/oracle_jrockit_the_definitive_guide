@@ -5,6 +5,9 @@ README
 
 "[Oracle JRockit - The Definitive Guide][1]" translation（中文名应该叫《Oracle JRockit权威指南》吧，但觉着"权威"这个词不太合适，太大了）.
 
+# Content
+
+参见[Content页面][7]
 
 # Contributor
 
@@ -33,3 +36,4 @@ README
 [4]:    http://rednaxelafx.iteye.com/      "RednaxelaFX"
 [5]:    https://github.com/AssemblyCoffee
 [6]:    https://github.com/cndpzc
+[7]:    ./content.md
